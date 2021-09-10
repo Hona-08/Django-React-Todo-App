@@ -1,6 +1,6 @@
 body{
-  background: rgb(54,217,182);
-  background: linear-gradient(90deg, rgba(54,217,182,1) 0%, rgba(32,152,126,1) 43%, rgba(0,212,255,1) 100%);
+  background: rgb(30, 150, 130);
+  background: linear-gradient(90deg, rgb(34, 80, 141) 0%, rgb(10, 111, 124) 43%, rgb(22, 185, 177) 100%);
 }
 
 h1, h2, h3, h4, h5, p, span, strike{
@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, p, span, strike{
 }
 
 #submit{
-  background-color: #36d9b6;
+  background-color: #17598f;
   border-radius: 0;
   border:0;
   color: #fff;
